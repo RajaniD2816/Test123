@@ -4,23 +4,23 @@ int main() {
 
 
 
-    int number1, number2, sum;
+    int n1, n2, sum;
 
     
 
     printf("Enter two integers: ");
 
-    scanf("%d %d", &number1, &number2);
+    scanf("%d %d", &n1, &n2);
 
 
 
     // calculate the sum
 
-    sum = number1 + number2;      
+    sum = n1 + n2;      
 
     
 
-    printf("%d + %d = %d", number1, number2, sum);
+    printf("%d +0 %d = %d", n1, n2, sum);
 
     return 0;
 
